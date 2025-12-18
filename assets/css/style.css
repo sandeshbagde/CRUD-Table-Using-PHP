@@ -1,0 +1,31 @@
+body {
+    background: #f4f6f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.bg-gradient {
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.form-control {
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.btn-success {
+    font-weight: 600;
+}
+
+.btn-success:hover {
+    background-color: #17a673;
+}
+
+.page-title {
+    font-weight: 700;
+    color: #4e73df;
+}
